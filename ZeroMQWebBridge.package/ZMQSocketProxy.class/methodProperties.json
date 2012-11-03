@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"new:" : "SebastianHeidbrink 10/25/2012 21:16" },
+	"instance" : {
+		"deregister" : "SebastianHeidbrink 10/25/2012 21:24",
+		"identity" : "SebastianHeidbrink 10/25/2012 21:17",
+		"identity:" : "SebastianHeidbrink 10/25/2012 21:17",
+		"initialize" : "SebastianHeidbrink 10/25/2012 21:34",
+		"register:zmqGateway:" : "SebastianHeidbrink 10/25/2012 21:24",
+		"sendToWeb:" : "SebastianHeidbrink 10/25/2012 21:27",
+		"sendToZMQ:" : "SebastianHeidbrink 10/26/2012 00:05",
+		"socketType" : "SebastianHeidbrink 10/25/2012 21:32",
+		"socketType:" : "SebastianHeidbrink 10/25/2012 21:32",
+		"wsGateway" : "SebastianHeidbrink 10/25/2012 21:18",
+		"wsGateway:" : "SebastianHeidbrink 10/25/2012 21:18",
+		"zmqGateway" : "SebastianHeidbrink 10/25/2012 21:18",
+		"zmqGateway:" : "SebastianHeidbrink 10/25/2012 21:18" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "ZeroMQWebBridge-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"identity",
+		"wsGateway",
+		"zmqGateway",
+		"socketType" ],
+	"name" : "ZMQSocketProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

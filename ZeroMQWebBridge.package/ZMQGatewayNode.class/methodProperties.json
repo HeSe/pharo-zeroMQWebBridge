@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"new:context:" : "SebastianHeidbrink 10/24/2012 20:16",
+		"newBound:context:" : "SebastianHeidbrink 10/24/2012 21:23",
+		"newConnected:context:" : "SebastianHeidbrink 10/24/2012 21:11" },
+	"instance" : {
+		"bindToZmqSocket" : "SebastianHeidbrink 10/24/2012 21:24",
+		"connectToZmqSocket" : "SebastianHeidbrink 10/24/2012 20:30",
+		"handleBlock" : "SebastianHeidbrink 10/24/2012 20:51",
+		"initializeOn:context:" : "SebastianHeidbrink 10/24/2012 20:14",
+		"newSocket" : "SebastianHeidbrink 10/24/2012 20:30",
+		"run" : "SebastianHeidbrink 10/24/2012 21:51",
+		"sendToWeb:message:" : "SebastianHeidbrink 10/24/2012 19:59",
+		"zmqConnectionString" : "SebastianHeidbrink 10/24/2012 19:14",
+		"zmqConnectionString:" : "SebastianHeidbrink 10/24/2012 19:14",
+		"zmqContext" : "SebastianHeidbrink 10/24/2012 19:13",
+		"zmqContext:" : "SebastianHeidbrink 10/24/2012 19:13",
+		"zmqSocket" : "SebastianHeidbrink 10/24/2012 20:29",
+		"zmqSocket:" : "SebastianHeidbrink 10/24/2012 20:29" } }

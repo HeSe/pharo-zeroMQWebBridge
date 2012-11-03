@@ -1,0 +1,15 @@
+{
+	"category" : "ZeroMQWebBridge-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"zmqGateway",
+		"webGateway" ],
+	"name" : "BridgeWebProxyHandler",
+	"pools" : [
+		 ],
+	"super" : "ZMQWebProxyHandler",
+	"type" : "normal" }

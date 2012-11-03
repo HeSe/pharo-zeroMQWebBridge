@@ -1,0 +1,4 @@
+accessing
+initialize
+
+	socketType := nil

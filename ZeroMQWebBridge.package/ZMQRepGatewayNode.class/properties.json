@@ -1,0 +1,15 @@
+{
+	"category" : "ZeroMQWebBridge-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"addresses",
+		"queue" ],
+	"name" : "ZMQRepGatewayNode",
+	"pools" : [
+		 ],
+	"super" : "ZMQGatewayNode",
+	"type" : "normal" }

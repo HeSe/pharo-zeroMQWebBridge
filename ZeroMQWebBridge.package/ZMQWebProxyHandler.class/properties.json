@@ -1,0 +1,14 @@
+{
+	"category" : "ZeroMQWebBridge-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"proxies" ],
+	"name" : "ZMQWebProxyHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

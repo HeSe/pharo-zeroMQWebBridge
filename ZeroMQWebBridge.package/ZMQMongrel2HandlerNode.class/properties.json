@@ -1,0 +1,16 @@
+{
+	"category" : "ZeroMQWebBridge-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"identifier",
+		"zmqSockets",
+		"running" ],
+	"name" : "ZMQMongrel2HandlerNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

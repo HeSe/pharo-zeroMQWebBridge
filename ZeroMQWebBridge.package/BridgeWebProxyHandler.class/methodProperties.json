@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"new:webGateway:" : "SebastianHeidbrink 10/25/2012 22:25" },
+	"instance" : {
+		"connect:message:" : "SebastianHeidbrink 10/25/2012 23:50",
+		"handleRequest:" : "SebastianHeidbrink 10/26/2012 17:18",
+		"run" : "SebastianHeidbrink 10/26/2012 00:02",
+		"sendToWeb:message:" : "SebastianHeidbrink 10/26/2012 00:06",
+		"sendToZMQ:message:" : "SebastianHeidbrink 10/25/2012 23:49",
+		"webGateway" : "SebastianHeidbrink 10/25/2012 22:21",
+		"webGateway:" : "SebastianHeidbrink 10/25/2012 22:21",
+		"zmqAllowed" : "SebastianHeidbrink 10/25/2012 22:26",
+		"zmqGateway" : "SebastianHeidbrink 10/25/2012 22:22",
+		"zmqGateway:" : "SebastianHeidbrink 10/25/2012 22:22" } }
