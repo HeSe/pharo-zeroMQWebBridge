@@ -7,19 +7,13 @@ workerBlock
 		fromMongrel := node fromMongrelSocket.
 		toMongrel := node toMongrelSocket.
 		
-			[ node running ] whileTrue:[ 
-				| mMongrelRequest  |
-					
-				[
-					| mMessage mBlock | 
-					
-					mMessage := fromMongrel receive. 
-				
-					mMongrelRequest := node formatAsRequest: mMessage.				
+		[fromMongrel withResultDo: [:msg | |mBlock mMongrelRequest |		
+					Transcript cr; show: 'got result'.		
+					mMongrelRequest := node formatAsRequest: msg.				
 					mBlock := node handlerBlockForRequest: mMongrelRequest.
 				      mBlock value: mMongrelRequest value: node value: toMongrel
+				]]
+				on: Error do: [ :e |  Transcript cr; show: e asString .nil ]
 				]
-				on: Error do: [ :e |  nil ]
-				]
-			].
+		
 	
