@@ -12,7 +12,7 @@ workerBlock
 					
 				[
 					| mMessage mBlock | 
-					toMongrel send: node identifier.
+					
 					mMessage := fromMongrel receive. 
 				
 					mMongrelRequest := node formatAsRequest: mMessage.				
